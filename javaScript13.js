@@ -7,4 +7,9 @@ function sumOfElements() {
   return sum;
 }
 let array =[1,3,5,7,23,8]
+
+
+
+
+
 console.log(sumOfElements(array));
