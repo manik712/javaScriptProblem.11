@@ -4,5 +4,5 @@ function stringLength(string){
 
 
 
-// const  sentence  =stringLength("i love   you")
-// console.log(sentence)
+const  sentence  =stringLength("i love   you")
+console.log(sentence)
